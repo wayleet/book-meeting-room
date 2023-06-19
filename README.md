@@ -1,2 +1,2 @@
 # book-meeting-room
-[Demo](https://form-two-rose.vercel.app/)
+[Demo](https://book-meeting-room.netlify.app/)
